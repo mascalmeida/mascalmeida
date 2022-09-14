@@ -25,3 +25,8 @@
 <div>
   <a href = "https://www.credly.com/badges/68bd40ae-4cba-460d-8f15-17d4c707873f/public_url" target="_blank"><img alt="Azure Fundamentals" height="85" src="https://user-images.githubusercontent.com/48625700/190165596-6c3d3951-a34f-41d0-818b-073272a63ebc.png" target="_blank"></a>
 </div>
+
+
+-----------------
+[![Lucas's GitHub Followers](https://img.shields.io/github/followers/mascalmeida?style=flat-square&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/mascalmeida)
+[![Lucas's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mascarenhas/)](https://www.linkedin.com/in/lucas-mascarenhas/) 
