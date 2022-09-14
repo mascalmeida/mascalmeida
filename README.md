@@ -2,7 +2,7 @@
 
 - 🎲 Data Engineer at [@Braskem](https://www.braskem.com.br/digital-transformation)
 - 🎓 Graduated in Automation Engineer [@UFBA](http://www.cceca.eng.ufba.br/cceca/)
-- 📫 How to reach me: lucasmascalmeida@gmail.com
+- 📫 Feel free to reach me lucasmascalmeida@gmail.com
 - 🌐 Connect with me [Linkedin profile](https://www.linkedin.com/in/lucas-mascarenhas/)
 
 <div align="center">
