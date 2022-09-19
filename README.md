@@ -22,11 +22,14 @@
   <img align="center" alt="git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
 </div>
 
-## Certifications
+## Certifications & Trainings
 <div>
   <a href = "https://www.credly.com/badges/68bd40ae-4cba-460d-8f15-17d4c707873f/public_url" target="_blank"><img alt="Azure Fundamentals" height="85" src="https://user-images.githubusercontent.com/48625700/190165596-6c3d3951-a34f-41d0-818b-073272a63ebc.png" target="_blank"></a>
 </div>
 
+<div>
+  <a href = "https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados" target="_blank"><img alt="Bootcamp Eng de Dados" height="85" src="https://user-images.githubusercontent.com/48625700/191049295-a3506207-1fc1-4e6f-a235-5c6faf55806f.svg" target="_blank"></a>
+</div>
 
 -----------------
 [![Lucas's GitHub Followers](https://img.shields.io/github/followers/mascalmeida?style=flat-square&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/mascalmeida)
