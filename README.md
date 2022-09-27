@@ -32,5 +32,6 @@
 </div>
 
 -----------------
+![Lucas's GitHub Views](https://komarev.com/ghpvc/?username=mascalmeida&style=flat-square)
 [![Lucas's GitHub Followers](https://img.shields.io/github/followers/mascalmeida?style=flat-square&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/mascalmeida)
-[![Lucas's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mascarenhas/)](https://www.linkedin.com/in/lucas-mascarenhas/) 
+[![Lucas's Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mascarenhas/)](https://www.linkedin.com/in/lucas-mascarenhas/)
