@@ -28,7 +28,7 @@
 </div>
 
 <div>
-  <a href = "https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados" target="_blank"><img alt="Bootcamp Eng de Dados" height="85" src="https://user-images.githubusercontent.com/48625700/191049295-a3506207-1fc1-4e6f-a235-5c6faf55806f.svg" target="_blank"></a>
+  <a href = "https://github.com/mascalmeida/bootcamp-xpe-data-eng-cloud" target="_blank"><img alt="Bootcamp Eng de Dados" height="95" src="https://user-images.githubusercontent.com/48625700/195994163-073c0706-429d-45fb-9a93-929156cb9a41.svg" target="_blank"></a>
 </div>
 
 -----------------
