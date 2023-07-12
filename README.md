@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/mascalmeida">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mascalmeida&show_icons=true&theme=dark&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mascalmeida&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mascalmeida&show_icons=true&theme=dark&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mascalmeida&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Skills & Tools
