@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Lucas Mascarenhas
 
 - 🎲 Data Engineer at [@Braskem](https://www.braskem.com.br/digital-transformation)
-- 🎓 Graduated in Automation Engineering [@UFBA](http://www.cceca.eng.ufba.br/cceca/)
+- 🎓 Master's Student in Computer Science [@UFBA](https://pgcomp.ufba.br/))
+- 👨‍🔬 Researcher at [Urban Computing Lab](https://ucl.ufba.br/)
 - 📫 Feel free to reach me lucasmascalmeida@gmail.com
 - 🌐 Connect with me [Linkedin profile](https://www.linkedin.com/in/lucas-mascarenhas/)
 
