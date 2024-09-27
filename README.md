@@ -24,12 +24,14 @@
 </div>
 
 ## Certifications & Trainings
-<div>
-  <a href = "https://www.credly.com/badges/68bd40ae-4cba-460d-8f15-17d4c707873f/public_url" target="_blank"><img alt="Azure Fundamentals" height="85" src="https://user-images.githubusercontent.com/48625700/190165596-6c3d3951-a34f-41d0-818b-073272a63ebc.png" target="_blank"></a>
-</div>
 
-<div>
-  <a href = "https://github.com/mascalmeida/bootcamp-xpe-data-eng-cloud" target="_blank"><img alt="Bootcamp Eng de Dados" height="85" src="https://user-images.githubusercontent.com/48625700/195998853-66806fb2-d6fa-4e6e-b867-8f46ea81114c.png" target="_blank"></a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.credly.com/badges/68bd40ae-4cba-460d-8f15-17d4c707873f/public_url" target="_blank">
+    <img alt="Azure Fundamentals" height="85" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+  </a>
+  <a href="https://credentials.databricks.com/e972f49d-265a-47b1-bea0-0ee44cbc8be7#gs.ftncch" target="_blank">
+    <img alt="GenAI Fundamentals" height="85" src="https://www.databricks.com/sites/default/files/2023-06/fundamentals-badge-generative-lp.png">
+  </a>
 </div>
 
 -----------------
